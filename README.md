@@ -1,4 +1,3 @@
-/uptimerobot/ratio/7/:monitorSpecificKey
  # 👋 Hi, My name is Vitória.
 
 - 👀 I’m interested in programming of games

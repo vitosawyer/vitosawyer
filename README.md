@@ -1,4 +1,4 @@
-##👋 Hi, My name is Vitória.
+ # 👋 Hi, My name is Vitória.
 
 - 👀 I’m interested in programming of games
 - 🌱 I’m currently learning C++, Web coding and Game developing

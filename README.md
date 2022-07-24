@@ -1,4 +1,5 @@
-- 👋 Hi, My name is Vitória. I was born in Brazil.
+##👋 Hi, My name is Vitória.
+
 - 👀 I’m interested in programming of games
 - 🌱 I’m currently learning C++, Web coding and Game developing
 
